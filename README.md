@@ -8,4 +8,4 @@ Reinforcement Learning - Richard S. Sutton and Andrew G. Barto
 Prof. Michael.S.Ryoo - Department of Computer Science, Stonybrook University
 
 ## Topics covered in this repository: 
-### Monte-Carlo
+### Actor-Critic
